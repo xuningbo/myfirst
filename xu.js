@@ -1,0 +1,3 @@
+function myfirst(){
+alert("xuningbo");
+}
